@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reminderreduxapp/static/css/main.e16be042.chunk.css",
+    "main.js": "/reminderreduxapp/static/js/main.fcc5209e.chunk.js",
+    "main.js.map": "/reminderreduxapp/static/js/main.fcc5209e.chunk.js.map",
+    "runtime-main.js": "/reminderreduxapp/static/js/runtime-main.e83eace8.js",
+    "runtime-main.js.map": "/reminderreduxapp/static/js/runtime-main.e83eace8.js.map",
+    "static/css/2.19428c40.chunk.css": "/reminderreduxapp/static/css/2.19428c40.chunk.css",
+    "static/js/2.d3cbaece.chunk.js": "/reminderreduxapp/static/js/2.d3cbaece.chunk.js",
+    "static/js/2.d3cbaece.chunk.js.map": "/reminderreduxapp/static/js/2.d3cbaece.chunk.js.map",
+    "index.html": "/reminderreduxapp/index.html",
+    "static/css/2.19428c40.chunk.css.map": "/reminderreduxapp/static/css/2.19428c40.chunk.css.map",
+    "static/css/main.e16be042.chunk.css.map": "/reminderreduxapp/static/css/main.e16be042.chunk.css.map",
+    "static/js/2.d3cbaece.chunk.js.LICENSE.txt": "/reminderreduxapp/static/js/2.d3cbaece.chunk.js.LICENSE.txt",
+    "static/media/reminders.ec88bfd0.png": "/reminderreduxapp/static/media/reminders.ec88bfd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e83eace8.js",
+    "static/css/2.19428c40.chunk.css",
+    "static/js/2.d3cbaece.chunk.js",
+    "static/css/main.e16be042.chunk.css",
+    "static/js/main.fcc5209e.chunk.js"
+  ]
+}
